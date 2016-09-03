@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void doGet() {
         Toast.makeText(this,"吐司",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"远程更新",Toast.LENGTH_LONG).show();
     }
 }
